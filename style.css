@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+.btn-play {
+  background-color: transparent;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+img {
+  
+  width: 100%;
+}
+.move-icon {
+  width: 50px;
+}
+p {
+  font-size: 20px;
+}
